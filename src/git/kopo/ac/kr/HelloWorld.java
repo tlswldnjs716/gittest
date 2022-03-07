@@ -6,5 +6,6 @@ public class HelloWorld {
 		System.out.println("b1");
 		System.out.println("lunch time");
 		System.out.println("go");
+		System.out.println("now");
 	}
 }
